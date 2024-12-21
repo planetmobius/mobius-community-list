@@ -1,0 +1,22 @@
+{
+	"name": "Mobius Community List",
+	"timestamp": "2024-12-21T08:30:00Z",
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	},
+	"tags": {},
+	"logoURI": "https://mobiusdex.xyz/logo.png",
+	"keywords": ["mobiusdex", "community"],
+	"tokens": [
+		{
+			"name": "Ozzy",
+			"symbol": "OZZY",
+			"address": "0xaEc285b0d4ADD95b90b6C6e2ec62Fa3dE66688B8",
+			"chainId": 146,
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/planetmobius/mobius-community-list/refs/heads/main/assets/sonic/0xaEc285b0d4ADD95b90b6C6e2ec62Fa3dE66688B8.png"
+		}
+	]
+}
