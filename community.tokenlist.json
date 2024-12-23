@@ -17,6 +17,14 @@
 			"chainId": 146,
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/planetmobius/mobius-community-list/refs/heads/main/assets/sonic/0xaEc285b0d4ADD95b90b6C6e2ec62Fa3dE66688B8.png"
+		},
+		{
+			"name": "Hedgy the Hedgehog",
+			"symbol": "HEDGY",
+			"address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+			"chainId": 146,
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/planetmobius/mobius-community-list/refs/heads/main/assets/sonic/0x6fB9897896Fe5D05025Eb43306675727887D0B7c.png"
 		}
 	]
 }
